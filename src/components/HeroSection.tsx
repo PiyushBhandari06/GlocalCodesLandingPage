@@ -33,11 +33,11 @@ export default function HeroSection() {
           {/* Left Content */}
           <div className="pt-4">
             <h1 className="text-4xl md:text-6xl lg:text-7xl leading-tight mb-6">
-              <span className="text-[#D71456] italic font-semibold">Tax Deadlines</span>
+              <span className="text-accent italic font-semibold">Tax Deadlines</span>
               <br />
-              <span className="text-[#2E5966] ">Are Closer</span>
+              <span className="text-primary ">Are Closer</span>
               <br />
-              <span className="text-[#2E5966] ">Than You Think</span>
+              <span className="text-primary ">Than You Think</span>
             </h1>
 
             <p className="text-gray-600 text-base md:text-lg mb-6 max-w-none">
@@ -51,7 +51,7 @@ export default function HeroSection() {
               before time runs out.
             </p>
 
-            <p className="text-[#2E5966] text-base md:text-lg font-medium py-5">
+            <p className="text-primary text-base md:text-lg font-medium py-5">
               1099 • W-2 • Bookkeeping • Tax Preparation • IRS Compliance
             </p>
           </div>
