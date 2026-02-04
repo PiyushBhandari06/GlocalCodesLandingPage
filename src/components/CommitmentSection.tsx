@@ -64,7 +64,7 @@ export default function CommitmentSection() {
               <img src="Checkmark.png" alt="Checkmark" className="w-6 h-6 object-contain" />
             </div>
             <div className="flex-1 rounded-full p-0.5 -ml-8 bg-[linear-gradient(90deg,#DB1658_0%,#315A68_100%)] shadow-sm overflow-hidden h-16">
-              <div className="bg-white rounded-full px-6 h-full text-center flex items-center justify-center">
+              <div className="bg-white rounded-4xl px-6 h-full text-center flex items-center justify-center">
                 <span className="text-black-1 font-semibold text-base leading-tight text-center">
                   Proactive deadline tracking
                 </span>
